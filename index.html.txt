@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #333;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的个人网站</h1>
+        <p>这里是我的数字家园</p>
+    </header>
+    
+    <section class="section">
+        <h2>关于我</h2>
+        <p>在这里写下你的个人介绍...</p>
+    </section>
+    
+    <section class="section">
+        <h2>我的技能</h2>
+        <ul>
+            <li>技能1</li>
+            <li>技能2</li>
+            <li>技能3</li>
+        </ul>
+    </section>
+    
+    <section class="section">
+        <h2>联系我</h2>
+        <p>邮箱：your-email@example.com</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 我的个人网站. 保留所有权利.</p>
+    </footer>
+</body>
+</html>
