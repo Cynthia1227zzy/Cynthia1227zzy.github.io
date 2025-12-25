@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ÎÒµÄ¸öÈËÍøÕ¾</title>
+    <title>æˆ‘çš„ä¸ªäººç½‘ç«™</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,31 +34,31 @@
 </head>
 <body>
     <header>
-        <h1>»¶Ó­À´µ½ÎÒµÄ¸öÈËÍøÕ¾</h1>
-        <p>ÕâÀïÊÇÎÒµÄÊý×Ö¼ÒÔ°</p>
+        <h1>æ¬¢è¿Žæ¥åˆ°æˆ‘çš„ä¸ªäººç½‘ç«™</h1>
+        <p>è¿™é‡Œæ˜¯æˆ‘çš„æ•°å­—å®¶å›­</p>
     </header>
     
     <section class="section">
-        <h2>¹ØÓÚÎÒ</h2>
-        <p>ÔÚÕâÀïÐ´ÏÂÄãµÄ¸öÈË½éÉÜ...</p>
+        <h2>å…³äºŽæˆ‘</h2>
+        <p>åœ¨è¿™é‡Œå†™ä¸‹ä½ çš„ä¸ªäººä»‹ç»...</p>
     </section>
     
     <section class="section">
-        <h2>ÎÒµÄ¼¼ÄÜ</h2>
+        <h2>æˆ‘çš„æŠ€èƒ½</h2>
         <ul>
-            <li>¼¼ÄÜ1</li>
-            <li>¼¼ÄÜ2</li>
-            <li>¼¼ÄÜ3</li>
+            <li>æŠ€èƒ½1</li>
+            <li>æŠ€èƒ½2</li>
+            <li>æŠ€èƒ½3</li>
         </ul>
     </section>
     
     <section class="section">
-        <h2>ÁªÏµÎÒ</h2>
-        <p>ÓÊÏä£ºyour-email@example.com</p>
+        <h2>è”ç³»æˆ‘</h2>
+        <p>é‚®ç®±ï¼šyour-email@example.com</p>
     </section>
     
     <footer>
-        <p>&copy; 2024 ÎÒµÄ¸öÈËÍøÕ¾. ±£ÁôËùÓÐÈ¨Àû.</p>
+        <p>&copy; 2024 æˆ‘çš„ä¸ªäººç½‘ç«™. ä¿ç•™æ‰€æœ‰æƒåˆ©.</p>
     </footer>
 </body>
 </html>
